@@ -3,7 +3,7 @@
 ### How to use
 1. Get the repo
 ```
-git clone ....
+git clone https://github.com/GitHuberkata/module-code.git
 ```
 2. Navigate to projects 
 ```
