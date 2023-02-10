@@ -5,7 +5,7 @@
 ```
 git clone https://github.com/GitHuberkata/module-code.git
 ```
-2. Navigate to projects 
+2. Navigate to folder `projects`
 ```
 cd projects
 ```
